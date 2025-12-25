@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<p> hi was geht </p>
 <h1>Wilkommen zum FlexBoard Portal</h1>
 <h2>Das hier ist ein test</h2>
 </body>
