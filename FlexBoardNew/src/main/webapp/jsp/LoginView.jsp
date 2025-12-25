@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Wilkommen zum FlexBoard Portal</h1>
+<h2>Das hier ist ein test</h2>
 </body>
 </html>
